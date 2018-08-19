@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="470" height="210" viewBox="0, 0, 470, 210">
+  <defs>
+    <pattern id="Pattern_1" patternUnits="userSpaceOnUse" x="16.81" y="121.409" width="80" height="80" patternTransform="matrix(0.5, 0, 0, 0.5, 0, 0)">
+      <g transform="translate(-0, -0)">
+        <path d="M0,0 L80,0 L80,80 L0,80 L0,0 z" fill="#C3B599"/>
+        <path d="M0,0 L20,20 L0,40 L0,27.5 L7.5,20 L0,12.5 L0,0 z" fill="#726657"/>
+        <path d="M0,40 L20,60 L0,80 L0,67.5 L7.5,60 L0,52.5 L0,40 z" fill="#E0D9CA"/>
+        <path d="M20,20 L40,0 L60,20 L40,40 L20,20 z M47.5,20 L40,12.5 L32.5,20 L40,27.5 L47.5,20 z" fill="#E0D9CA"/>
+        <path d="M20,60 L40,40 L60,60 L40,80 L20,60 z M47.5,60 L40,52.5 L32.5,60 L40,67.5 L47.5,60 z" fill="#726657"/>
+        <path d="M80,0 L60,20 L80,40 L80,27.5 L72.5,20 L80,12.5 L80,0 z" fill="#726657"/>
+        <path d="M80,40 L60,60 L80,80 L80,67.5 L72.5,60 L80,52.5 L80,40 z" fill="#E0D9CA"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="Layer_1">
+    <path d="M0,-0 L470.159,-0 L470.159,210.558 L0,210.558 z" fill="#A6192B"/>
+    <path d="M127.602,134.659 L170.164,134.659 L170.164,159.132 L127.602,159.132 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M170.164,159.132 L65.385,159.132 L65.385,183.605 L170.164,183.605 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M22.823,134.659 L127.602,134.659 L127.602,159.132 L22.823,159.132 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M65.385,159.132 L22.822,159.132 L22.822,183.605 L65.385,183.605 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M46.828,109.865 L47.158,36.311 L22.822,24.873 L22.822,109.865 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M71.164,109.865 L71.164,61.089 L47.158,61.089 L47.158,109.865 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <text transform="matrix(1, 0, 0, 1, 318.677, 98.726)">
+      <tspan x="-136.325" y="15.777" font-family="DINCondensed-Bold" font-size="84" fill="#FFFFFF">PLATFORM</tspan>
+    </text>
+    <path d="M97.164,109.865 L97.164,73.395 L73.158,73.395 L73.158,109.865 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M122.164,109.865 L122.164,43.315 L98.158,43.315 L98.158,109.865 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M146.164,109.865 L146.164,82.549 L122.158,82.549 L122.158,109.865 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M170.164,109.865 L170.164,57.215 L146.164,65.768 L146.158,109.865 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="11"/>
+    <g>
+      <path d="M16.81,121.79 L450.445,121.409" fill="url(#Pattern_1)"/>
+      <path d="M16.81,121.79 L450.445,121.409" fill-opacity="0" stroke="#FFFFFF" stroke-width="3"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 318.677, 172.78)">
+      <tspan x="-136.325" y="15.722" font-family="DINCondensed-Bold" font-size="84" fill="#FFFFFF">LAND</tspan>
+    </text>
+    <path d="M294.369,183.105 L295.609,183.105 L295.609,187.755 L294.369,187.755 z" fill="#FFFFFF"/>
+    <path d="M192.06,179.384 L192.37,179.384 L192.37,183.105 L192.06,183.105 z" fill="#FFFFFF"/>
+  </g>
+</svg>
