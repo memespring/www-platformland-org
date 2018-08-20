@@ -1,0 +1,23 @@
+  body, label, button {
+    font-family:'Open Sans', sans-serif;
+  }
+  label, .button {
+    font-size:100%;
+  }
+  h1, h2, h3, h4, h5{
+    font-family:'Open Sans Condensed', sans-serif;
+  }
+  .button {
+    background:#a6192b;    
+    font-weight:bold;
+  }
+  .sr-only {
+	  border: 0;
+	  clip: rect(0 0 0 0);
+	  height: 1px;
+	  margin: -1px;
+	  overflow: hidden;
+	  padding: 0;
+	  position: absolute;
+	  width: 1px;
+}
