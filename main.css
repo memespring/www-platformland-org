@@ -91,8 +91,9 @@
   header.callout img {
     padding-right:25%;
   }
-  header.callout p.lead {
-    font-size:125%;
+  #header.callout p.lead {
+    font-size:126%;
+    padding-right:10%;
   }
   h2 {
     font-size:220%;
